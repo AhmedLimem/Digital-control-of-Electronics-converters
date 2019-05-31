@@ -34,9 +34,10 @@ Key words: C/C++, Embedded systems, Digital control and signal processing, AVR m
 1/ Install Arduino IDE software
 
 2/ Add Timers and Display libraries in Arduino IDE:
-- go to "Sketch" menu
-- then menu "Include Library"
-- click "Add .ZIP Library.."
+- Go to "Sketch" menu
+- Then menu "Include Library"
+- Click "Add .ZIP Library.."
+
 Note: All needed Libraries are in the folder "arduino_libraries"
 
 ## Collaborators
@@ -49,13 +50,11 @@ Electrical Engineering student (ahmed.limem@etudiant-enit.utm.tn)
 ## Contributing
 Mr. Férid KOURDA - Supervisor, professor and director of Electrical Systems Laboratory (LSE), ENIT
 
-
 ## Copyright & Licensing
-All the work and program code is published under Open-Source License but it is nesecerry to mentionn for any use
-
+All the work and program code are published under Open-Source License but it is necessary to reference it for any use.
 
 References
-While this work is being prepared, it may have been quoted from some sources. It is mentionned in the end of my repport.
+While this project is being prepared, it may have been quoted from some sources. It is mentioned at the end of my report.
 
 ## Contact
 Don't hesitate to contact me for any more clarification about this project :)
