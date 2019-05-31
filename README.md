@@ -17,9 +17,9 @@ These commands are intended for:
 For its AC converters, it is necessary to design a stable sector synchronization signal and then establish the phase delay control.
 An offset of 120 ° then 240 ° will allow us to accurately determine the zero crossing times of the other synchronization phases.
 
-For its embedded programming, 
+For its embedded programming, AVR microcontrollers are used with all its features of GPIO, Timers and Interrupts, under the Arduino environment.
 
-Key words: C/C++, Embedded systems, Digital control and signal processing, AVR microcontroller, GPIO, Timers, intern and extern Interrupts.
+#### Key words: C/C++, Embedded systems, Digital control and signal processing, AVR microcontroller, GPIO, Timers, intern and extern Interrupts.
 
 ## How To Use
 
@@ -54,6 +54,7 @@ Mr. Férid KOURDA - Supervisor, professor and director of Electrical Systems Lab
 All the work and program code are published under Open-Source License but it is necessary to reference it for any use.
 
 References
+
 While this project is being prepared, it may have been quoted from some sources. It is mentioned at the end of my report.
 
 ## Contact
