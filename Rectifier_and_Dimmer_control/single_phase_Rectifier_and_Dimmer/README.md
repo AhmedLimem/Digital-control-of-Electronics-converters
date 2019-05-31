@@ -1,4 +1,3 @@
-Single-phase Dimmer / Rectifier \
-Control using toggle-function + display \
+Single-phase Dimmer / Rectifier control with display-function \
 Via arduino-uno \
 ==> Final version tested 
