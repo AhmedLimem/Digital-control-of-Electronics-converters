@@ -19,7 +19,7 @@ An offset of 120 ° then 240 ° will allow us to accurately determine the zero c
 
 For its embedded programming, AVR microcontrollers are used with all its features of GPIO, Timers and Interrupts, under the Arduino environment.
 
-#### Key words: C/C++, Embedded systems, Digital control and signal processing, AVR microcontroller, GPIO, Timers, intern and extern Interrupts.
+#### Key words: C/C++ programming, Embedded systems, Digital control and signal processing, AVR microcontroller, GPIO, Timers, intern and extern Interrupts.
 
 ## How To Use
 
