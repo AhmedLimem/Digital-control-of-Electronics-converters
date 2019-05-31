@@ -4,5 +4,5 @@ Add Timers and Display libraries in Arduino IDE: \
 3/ Click "Add .ZIP Library.."
 
 Notes: \
--Timer1 + Timer3 for arduino uno \
--Arduino mega support all this libraries of timers
+-Timer1 + Timer3 are for arduino uno \
+-Arduino mega supports all these libraries of timers
