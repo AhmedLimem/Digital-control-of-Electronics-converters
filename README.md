@@ -10,9 +10,9 @@ More precisely, it's about Digital control (generation and processing of signals
 This project involves modifying existing commands of  in analog mode by a digital control with display. 
 
 These commands are intended for:
-- Chopper Voltage Lift.
-- Single-phase rectifier.
-- Single-phase and three-phase dimmer.
+- Chopper Voltage Lift
+- Single-phase rectifier
+- Single-phase and three-phase dimmer
 
 For its AC converters, it is necessary to design a stable sector synchronization signal and then establish the phase delay control.
 An offset of 120 ° then 240 ° will allow us to accurately determine the zero crossing times of the other synchronization phases.
@@ -24,3 +24,14 @@ Key words: C/C++, embedded systems, digital control and signal processing, avr m
 ## How To Use
 
 ### Required Tools
+- Arduino Boards (arduino uno / arduino mega)
+- 
+- Single-phase and three-phase dimmer.instructions
+
+### Instructions
+
+1/ Install Arduino IDE software
+2/ Add Timers and Display libraries in Arduino IDE:
+- Arduino Boards (arduino uno / arduino mega)
+- 
+- Single-phase and three-phase dimmer.instructions
