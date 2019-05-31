@@ -1,4 +1,4 @@
-# About this work
+# Digital Control of Power Electronics Converters via AVR Microcontrollers
 
 ## About
 This is the work of my 2nd-engineering-year project about designing and programming embedded control systems for power electronics converters. 
@@ -53,9 +53,11 @@ Mr. Férid KOURDA - Supervisor, professor and director of Electrical Systems Lab
 ## Copyright & Licensing
 All the work and program code are published under Open-Source License but it is necessary to reference it for any use.
 
+In particular, this project is held in the Electrical Systems Laboratory (LSE) at the National Engineering School of Tunis (ENIT), under the directions of its director Mr. Férid KOURDA and using its equipments.
+
 References
 
 While this project is being prepared, it may have been quoted from some sources. It is mentioned at the end of my report.
 
 ## Contact
-Don't hesitate to contact me for any more clarification about this project :)
+Don't hesitate to contact me for any clarification about this project :)
