@@ -7,7 +7,7 @@ More precisely, it's about Digital control (generation and processing of signals
 
 ## What It Is (more details)
 
-This project involves modifying existing commands of  in analog mode by a digital control with display. 
+This project involves modifying existing commands in analog mode of power electronics converters by a digital control with display. 
 
 These commands are intended for:
 - Chopper Voltage Lift
@@ -19,18 +19,20 @@ An offset of 120 ° then 240 ° will allow us to accurately determine the zero c
 
 For its embedded programming, 
 
-Key words: C/C++, embedded systems, digital control and signal processing, avr microcontroller, gpio, timers, intern and extern interrupts.
+Key words: C/C++, Embedded systems, Digital control and signal processing, AVR microcontroller, GPIO, Timers, intern and extern Interrupts.
 
 ## How To Use
 
 ### Required Tools
 - Arduino Boards (arduino uno / arduino mega)
-- 
-- Single-phase and three-phase dimmer.instructions
+- Breadboard, Potentiometer and jumper wires
+- Oscilloscope
+- 16x2 LCD Display with I2C Interface
 
 ### Instructions
 
 1/ Install Arduino IDE software
+
 2/ Add Timers and Display libraries in Arduino IDE:
 - go to "Sketch" menu
 - then menu "Include Library"
