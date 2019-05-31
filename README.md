@@ -34,4 +34,22 @@ Key words: C/C++, embedded systems, digital control and signal processing, avr m
 2/ Add Timers and Display libraries in Arduino IDE:
 - Arduino Boards (arduino uno / arduino mega)
 - 
-- Single-phase and three-phase dimmer.instructions
+
+## Collaborators
+
+### Ahmed LIMEM 
+Electrical Engineering student (ahmed.limem@etudiant-enit.utm.tn)
+### Tarek BEN DAHOU
+Electrical Engineering student (ahmed.limem@etudiant-enit.utm.tn)
+
+## Contributing
+
+## Copyright & Licensing
+All the work and program code is published under open-source license but 
+
+References
+
+While this work is being prepared, it may have been quoted from some sources. It is mentionned in the end of my repport.
+
+## Contact
+Don't hesitate to contact me for any more clarification about this project :)
