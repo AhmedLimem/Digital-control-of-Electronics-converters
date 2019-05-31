@@ -5,8 +5,6 @@
  
 */
 
-
-
 int a =0;
 int b =0;
 long int time;
