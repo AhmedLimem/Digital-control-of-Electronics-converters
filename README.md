@@ -56,9 +56,9 @@ All the work and program code are published under Open-Source License but it is 
 In particular, this project is held in the Electrical Systems Laboratory (LSE) at the National Engineering School of Tunis (ENIT), under the directions of its director Mr. Férid KOURDA and using its equipments.
 
 References \
-While this project is being prepared, it may have been quoted from some sources. It is mentioned at the end of my report.
+While this project is being prepared, it was inspired form some sources. All of them are mentioned at the end of my report.
 
 ## Contact
 Don't hesitate to contact me for any clarification about this project :)
 
-#### Best Regards
+##### Best Regards
