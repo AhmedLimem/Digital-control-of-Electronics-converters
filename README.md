@@ -61,3 +61,5 @@ While this project is being prepared, it may have been quoted from some sources.
 
 ## Contact
 Don't hesitate to contact me for any clarification about this project :)
+
+Best Regards
