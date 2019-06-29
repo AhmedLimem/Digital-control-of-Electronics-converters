@@ -3,7 +3,7 @@
 ## About
 This is the work of my 2nd-engineering-year project about designing and programming embedded control systems for power electronics converters. 
 
-More precisely, it aims to elaborate digital control (generation and processing of signals) of power electronics converters (Boost converter, Rectifier, single-phase and three-phase Dimmers) via Atmel AVR microcontrollers (ATmega328 and ATmega2560) with Arduino Board.
+More precisely, it aims to elaborate digital control (generation and processing of signals) of power electronics converters (Boost converter, Rectifier, single-phase and three-phase Dimmers) via Atmel AVR microcontrollers (ATmega328 and ATmega2560) with Arduino Board. The major part of this project is C/C++ programming for embedded systems.
 
 ## What It Is (more details)
 
