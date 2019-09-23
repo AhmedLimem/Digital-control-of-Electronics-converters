@@ -46,7 +46,7 @@ Note: All needed Libraries are in the folder "arduino_libraries"
 ### Ahmed LIMEM 
 Electrical Engineering student (ahmed.limem@etudiant-enit.utm.tn)
 ### Tarek BEN DAHOU
-Electrical Engineering student (ahmed.limem@etudiant-enit.utm.tn)
+Electrical Engineering student
 
 ## Contributing
 Mr. Férid KOURDA - Supervisor, professor and director of Electrical Systems Laboratory (LSE), ENIT
